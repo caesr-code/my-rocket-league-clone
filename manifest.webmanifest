@@ -1,0 +1,11 @@
+{
+  "name": "Rocket Arena: Turbo League",
+  "short_name": "Rocket Arena",
+  "description": "A 3D car football arena game for desktop and mobile.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#030711",
+  "theme_color": "#07111f"
+}
